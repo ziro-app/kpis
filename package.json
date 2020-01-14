@@ -1,0 +1,17 @@
+{
+  "name": "kpis",
+  "version": "1.0.0",
+  "description": "HTML templates for KPIs tables to be sent by email",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziro-app/kpis.git"
+  },
+  "keywords": [],
+  "author": "Vitor Barbosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziro-app/kpis/issues"
+  },
+  "homepage": "https://github.com/ziro-app/kpis#readme"
+}
